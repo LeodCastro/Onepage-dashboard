@@ -17,4 +17,6 @@ Página consolidando as ocorrências registradas no início do contrato, em Mar�
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/b8ec24c6-3928-42bb-a87f-53f7410ab3a1" />
 
 ## Imagem 2
-Modelo de dados
+Modelo semântico
+
+![image](https://github.com/user-attachments/assets/affd4db3-d1a8-4f96-9991-2546ba455ea3)
